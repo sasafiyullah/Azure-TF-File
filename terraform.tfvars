@@ -1,0 +1,5 @@
+resource-grp = "Terraform-Rg"
+location = "East US"
+container-name = "blob-1"
+storage-account-name = "storageacountssacloud1"
+tfstate = "azure-state-file.tfstate"
